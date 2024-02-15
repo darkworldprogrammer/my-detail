@@ -1,0 +1,2 @@
+# my-detail
+Personal
